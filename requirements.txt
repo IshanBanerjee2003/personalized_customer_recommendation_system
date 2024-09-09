@@ -1,0 +1,6 @@
+tensorflow>=2.0
+pandas>=1.1
+numpy>=1.18
+scikit-learn>=0.22
+boto3>=1.15
+PyYAML>=5.3
